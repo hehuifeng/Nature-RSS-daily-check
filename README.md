@@ -1,5 +1,9 @@
 # RSS Daily Pipeline
 
+我们已将本仓库迁移到了一个新的代码仓库。此仓库将不再进行更新和维护。请访问新仓库[hehuifeng/Nature_task_generate](https://github.com/hehuifeng/Nature_task_generate)获取最新更新。
+
+---
+
 一个自动化的科研论文订阅与翻译工具 🚀  
 每天定时检查目标期刊 RSS，抓取最新文章的核心信息（标题、摘要、DOI 等），调用大模型 API 翻译成中文，并输出为 Markdown 报告，方便在公众号或其他平台分享。
 
